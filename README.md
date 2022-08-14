@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bonjour!%20&fontSize=40&desc=Bienvenue%20au%20Github%20de%20CHAEWON&descAlignY=70)
 
-<!--
-**wakhoo/wakhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello~! I'm a student who is studying programming to be a continuously growing programmer😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wakhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakhoo&show_icons=true&theme=onedark)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakhoo&layout=compact&show_icons=true&theme=onedark)](https://github.com/wakhoo/github-readme-stats)
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
