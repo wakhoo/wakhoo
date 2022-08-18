@@ -1,7 +1,16 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bonjour!%20&fontSize=40&desc=Bienvenue%20au%20Github%20de%20CHAEWON&descAlignY=70)
 
+ 
 
-Hello~! I'm a student who is studying programming to be a continuously growing programmer😆
+
+Hello~! I'm a Korea University(Sejong) student.
+</br>
+I want to be a continuously growing programmer😆
+
+<img src="https://img.shields.io/badge/Future Plan-ffffff?style=for-the-badge&logo=42&logoColor=black&size=40"/>
+
 
 ![Wakhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakhoo&show_icons=true&theme=onedark)
 <br/>
@@ -13,3 +22,4 @@ Hello~! I'm a student who is studying programming to be a continuously growing p
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
+</div>
