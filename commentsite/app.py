@@ -1,9 +1,10 @@
 from flask import Flask, render_template, request, jsonify
+from ignore.secure import MYDBURL
 app = Flask(__name__)
 import certifi
 ca=certifi.where()
 from pymongo import MongoClient
-client = MongoClient("mongodb+srv://codnjs:test@cluster0.0frgcjv.mongodb.net/?retryWrites=true&w=majority",tlsCAFile=ca)
+client = MongoClient(MYDBURL,tlsCAFile=ca)
 db = client.wakhoo
 
 @app.route('/')
