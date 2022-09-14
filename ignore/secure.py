@@ -1,0 +1,1 @@
+MYDBURL="mongodb+srv://codnjs:test@cluster0.0frgcjv.mongodb.net/?retryWrites=true&w=majority"

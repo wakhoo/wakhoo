@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bucket/.idea/bucket.iml" filepath="$PROJECT_DIR$/../bucket/.idea/bucket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/commentsite.iml" filepath="$PROJECT_DIR$/.idea/commentsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moviereview/.idea/moviereview.iml" filepath="$PROJECT_DIR$/../moviereview/.idea/moviereview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../timecounter/.idea/timecounter.iml" filepath="$PROJECT_DIR$/../timecounter/.idea/timecounter.iml" />
+    </modules>
+  </component>
+</project>
