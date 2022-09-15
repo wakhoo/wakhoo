@@ -1,21 +1,17 @@
-from flask import Flask, render_template, request, jsonify
-from ignore.secure import MYDBURL
-app = Flask(__name__)
-import certifi
-ca=certifi.where()
-from pymongo import MongoClient
-client = MongoClient(MYDBURL,tlsCAFile=ca)
-db = client.wakhoo
+from flask import render_template, request, jsonify,Blueprint
+from combine.static.db import db
+moviereview_api = Blueprint('moviereview_api', __name__,
+                        template_folder='templates')
 
 
 import requests
 from bs4 import BeautifulSoup
 
-@app.route('/')
-def home():
+@moviereview_api.route('/movie')
+def home2():
    return render_template('index.html')
 
-@app.route("/movie", methods=["POST"])
+@moviereview_api.route("/movie", methods=["POST"])
 def movie_post():
     url_receive = request.form['url_give']
     star_receive = request.form['star_give']
@@ -47,15 +43,12 @@ def movie_post():
 
     return jsonify({'msg':'POST 연결 완료!'})
 
-@app.route("/movie", methods=["GET"])
+@moviereview_api.route("/movie", methods=["GET"])
 def movie_get():
     movies_list = list(db.movies.find({},{'_id':False}))
     return jsonify({'movies':movies_list})
 
-@app.route("/movie", methods=["GET"])
+@moviereview_api.route("/movie", methods=["GET"])
 def find_movie():
     movies_list = list(db.movies.find({},{'_id':False}))
     return jsonify({'movies':movies_list})
-
-if __name__ == '__main__':
-   app.run('0.0.0.0', port=5040, debug=True)
