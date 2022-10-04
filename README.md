@@ -105,8 +105,7 @@ I want to study at ![42](https://img.shields.io/badge/Paris-000000?style=for-the
 
 <div align="center">
     
-![Wakhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakhoo&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakhoo&layout=compact&show_icons=true&theme=onedark)
+![Wakhoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakhoo&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakhoo&layout=compact&show_icons=true&theme=onedark)
 
 
 
