@@ -25,12 +25,12 @@
 **2019**
     I started to use ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) when I write the code. I also used ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) because I was studying ML(Machine Learning) with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- I write a paper with my friends about LDA.(https://github.com/wakhoo/HaniumProject-NLP-)
+- <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a>
     
     
 **2020**
 It was a hard time for me, I was keep studying ML/AI but, I couldn't feel I'm doing well on this.
-- Movie Recommend Project(https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb)
+- <a href="https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb"><text>Movie Recommend Project</text></a>
     
 
 **2021**
@@ -43,7 +43,7 @@ So I was trying to find out something I could enjoy much better. I tryed to use 
     
 **2022**
 
-#### Team Project Part(https://github.com/KULib-Project)
+#### <a href="https://github.com/KULib-Project"><text>Team Project Part</text></a>
 Finaly my friends and I started planning our project. Two of my friends want to be in a Back-End position and I was only Front-End. Anyway, we discuss about what we want to build and we make a conclude to make our school library APP. After that, we have to decide what we are going to use.
 
 **Back-End**: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
