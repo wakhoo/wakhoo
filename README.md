@@ -25,7 +25,7 @@
 **2019**
     I started to use ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) when I write the code. I also used ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) because I was studying ML(Machine Learning) with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- I write a paper with my friends about NLP(Natural Language Process), but it was not good paper.(https://github.com/wakhoo/HaniumProject-NLP-)
+- I write a paper with my friends about LDA.(https://github.com/wakhoo/HaniumProject-NLP-)
     
     
 **2020**
