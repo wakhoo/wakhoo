@@ -30,7 +30,7 @@
     
 **2020**
 It was a hard time for me, I was keep studying ML/AI but, I couldn't feel I'm doing well on this.
-- Movie Recommend Project
+- Movie Recommend Project(https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb)
     
 
 **2021**
