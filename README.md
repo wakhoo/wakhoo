@@ -28,7 +28,7 @@ yeah, I didn't choose my main domain yet..😂😂
 - <a href="https://happy-new-year-chaewon.netlify.app"><text>New Year Time Countdown</text></a> | html, css, js [Netlify] 
 - <a href="https://blooming-falls-63075.herokuapp.com/comments/"><text>Ask Me!</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
 - <a href="https://blooming-falls-63075.herokuapp.com/bucket/"><text>Bucket List</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
-- <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel]
+- <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel] 🛠
 
 #### Working on
 - <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
