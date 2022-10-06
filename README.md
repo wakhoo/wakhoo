@@ -18,25 +18,35 @@
 </div>
 
 ---
+### Currently I'm interest at..
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=#D04A37)
+
+yeah, I didn't choose my main domain yet..😂😂
+
+---
     
 **2018**
-    I learned ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) with using ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) OS
+<br>
+I learned ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) with using ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) OS
 
 **2019**
-    I started to use ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) when I write the code. I also used ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) because I was studying ML(Machine Learning) with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+I started to use ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) when I write the code. I also used ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) because I was studying ML(Machine Learning) with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a>
     
     
 **2020**
+<br>
 It was a hard time for me, I was keep studying ML/AI but, I couldn't feel I'm doing well on this.
 - <a href="https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb"><text>Movie Recommend Project</text></a>
     
 
 **2021**
-    I strated to feel I don't know what can I do in the future, if I keep studying ML/AI because when I keep studying I feel everything is just controlled by Google or Amazon. 
+<br>
+I strated to feel I don't know what can I do in the future, if I keep studying ML/AI because when I keep studying I feel everything is just controlled by Google or Amazon. 
 
-So I was trying to find out something I could enjoy much better. I tryed to use open API with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and I also try to make an APP with ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) which is based on ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=&logoColor=%2361DAFB) and I also try to use ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=%2361DAFB) which is using ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) language, and at end of the year I got some project offer from my friend.
+So I was trying to find out something I could enjoy much better. I tryed to use open API with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and I also try to make an APP with ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) which is based on ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and I also try to use ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=%2361DAFB) which is using ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) language, and at end of the year I got some project offer from my friend.
 
 - When I use both Expo and Flutter, I prefer Flutter, because the Dart language was very simple to use. But I didn't choose Flutter for my next project. Because it's still developing and I feel it's not stable yet.
     
@@ -59,7 +69,7 @@ When we start to make our App we could use Google Login API, but our school deci
 
 **Deploy**: ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-**Front-End**: ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) -> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=&logoColor=%2361DAFB)
+**Front-End**: ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) -> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     
 ---
 #### Work Part
