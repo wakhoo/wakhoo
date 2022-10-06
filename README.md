@@ -23,6 +23,17 @@
 
 yeah, I didn't choose my main domain yet..😂😂
 
+
+#### My Projects
+- <a href="https://happy-new-year-chaewon.netlify.app"><text>New Year Time Countdown</text></a> | html, css, js [Netlify] 
+- <a href="https://blooming-falls-63075.herokuapp.com/comments/"><text>Ask Me!</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
+- <a href="https://blooming-falls-63075.herokuapp.com/bucket/"><text>Bucket List</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
+- <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel]
+
+#### Working on
+- <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
+- <a href="https://libforcommunity.herokuapp.com/"><text>KU Lib Community(Back)</text></a> | MongoDB, FastAPI [Heroku]
+
 ---
     
 **2018**
@@ -82,9 +93,6 @@ When we start to make our App we could use Google Login API, but our school deci
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) for APP class. Fortunatly APP class was using ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) so, I don't need to so much worry about it.
 
--<a href="https://happy-new-year-chaewon.netlify.app"><text>New Year Time Countdown</text></a>
--<a href="https://blooming-falls-63075.herokuapp.com/comments/"><text>Ask Me!</text></a>
--<a href=https://blooming-falls-63075.herokuapp.com/bucket/""><text>Bucket List</text></a>
     
 **2022 10/4 ~ ing**
     Now I move to another job, in here I have to design shopping mall by using ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
