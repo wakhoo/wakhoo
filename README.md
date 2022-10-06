@@ -18,7 +18,7 @@
 </div>
 
 ---
-### Currently I'm interest at..
+### Currently I'm interested at..
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=#D04A37)
 
 yeah, I didn't choose my main domain yet..😂😂
