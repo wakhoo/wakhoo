@@ -104,16 +104,9 @@ When we start to make our App we could use Google Login API, but our school deci
 **Programming Part**
 I'm studying ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=#D04A37) and ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) at ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white).
     
-**Language Part**
-Studying French with my teacher.
-    
----
-#### My Future Plan
-I want to study at ![42](https://img.shields.io/badge/Paris-000000?style=for-the-badge&logo=42&logoColor=white&size=40) and I want to get a job in France. So, I'm studying French.
 
     
-    
-    
+---
     
     
   
