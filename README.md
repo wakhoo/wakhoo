@@ -28,9 +28,11 @@
 - <a href="https://blooming-falls-63075.herokuapp.com/comments/"><text>Ask Me!</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
 - <a href="https://blooming-falls-63075.herokuapp.com/bucket/"><text>Bucket List</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
 - <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel] 🛠
+- <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
+  <a href="https://www.youtube.com/watch?time_continue=2&v=GZnlvOIsWIQ&feature=emb_title"><text>KU Lib Project play Video</text></a>
 
 #### Working on
-- <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
+
 - <a href="https://libforcommunity.herokuapp.com/"><text>KU Lib Community(Back)</text></a> | MongoDB, FastAPI [Heroku]
 
 ---
