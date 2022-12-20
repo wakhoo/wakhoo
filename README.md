@@ -31,9 +31,6 @@
 - <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
   <a href="https://www.youtube.com/watch?time_continue=2&v=GZnlvOIsWIQ&feature=emb_title"><text>KU Lib Project play Video</text></a>
 
-#### Working on
-
-- <a href="https://libforcommunity.herokuapp.com/"><text>KU Lib Community(Back)</text></a> | MongoDB, FastAPI [Heroku]
 
 ---
     
