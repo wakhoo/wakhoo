@@ -29,7 +29,7 @@
 - <a href="https://blooming-falls-63075.herokuapp.com/bucket/"><text>Bucket List</text></a>  | MongoDB, flask, html, css, jquery [Heroku]
 - <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel] 🛠
 - <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
-  <a href="https://www.youtube.com/watch?time_continue=2&v=GZnlvOIsWIQ&feature=emb_title"><text>KU Lib Project play Video</text></a>
+  <a href="https://youtu.be/9pXj1BUHI1M"><text>KU Lib Project play Video</text></a>
 - <a href="https://github.com/wakhoo/Kint-Comunity.git"><text>Kint Comunity</text></a> | Next.js(React)
   <a href="https://www.youtube.com/watch?v=-GEij44PfbA"><text>Kint Comunity Project play Video</text></a>
 
