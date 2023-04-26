@@ -94,16 +94,15 @@ When we start to make our App we could use Google Login API, but our school deci
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) for APP class. Fortunatly APP class was using ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) so, I don't need to so much worry about it.
 
     
-**2022 10/4 ~ ing**
-    Now I move to another job, in here I have to design shopping mall by using ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**2023 01/28 ~ 02/25**
+    I teached about Arduino to student as a vacation coding camp. Ex) Smart lamp, smart farm, Auto mobility, Air purifier ![arduino](https://img.shields.io/badge/arduino-%231572B6.svg?style=for-the-badge&logo=arduino&logoColor=white)
     
     
 ---
 
 #### What I'm studying these days
 **Programming Part**
-I'm studying ![FastAPI](https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=#D04A37) and ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) at ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white).
-    
+I'm studying ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) again.
 
     
 ---
