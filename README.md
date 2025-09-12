@@ -28,9 +28,24 @@
 </div>
 
 ---
+### Educations
 
-#### Educations
-<img height="32" width="32" src="https://cdn.simpleicons.org/42" />
+<div>
+  <img height="40" alt="42" src="https://cdn.simpleicons.org/42" /><br/>
+  <strong>42 Mulhouse</strong><br/>
+  <em>Piscine & Core Program (2023–present)</em><br/>
+  C, algorithms, systems.
+</div>
+
+<br/>
+
+<div>
+  <img height="40" alt="Korea University" src="https://github.com/wakhoo/wakhoo/blob/main/pic/globalsymbol_eng2_large.png?raw=true" /><br/>
+  <strong>Korea University</strong><br/>
+  <em>B.Eng / B.Sc (2018–2023)</em><br/>
+  CS fundamentals, projects, teaching.
+</div>
+
 
 ---
 
