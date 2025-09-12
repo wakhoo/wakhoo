@@ -69,7 +69,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=9fe3aa&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=862633&height=200&section=footer)
     
 </div>
 
