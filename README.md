@@ -50,6 +50,7 @@
 </div>
 
 ---
+### 🗃️ Projects
 
 #### 42 C Projects
 - <a href="https://github.com/wakhoo/minishell"><text>minishell</text></a> | simple bash
