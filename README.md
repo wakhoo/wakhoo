@@ -28,13 +28,14 @@
 </div>
 
 ---
-### Educations
+### 🎓 Educations
 
 <div>
   <img height="40" alt="42" src="https://cdn.simpleicons.org/42" /><br/>
   <strong>42 Mulhouse</strong><br/>
   <em>Piscine & Core Program (2023–present)</em><br/>
-  C, algorithms, systems.
+  Innovative computer science school based on peer-to-peer learning and project work.<br/>
+  <strong>Key Skills:</strong> C, C++98, Algorithms, Data Structures, Networks, System Programming, Web Development, Cybersecurity
 </div>
 
 <br/>
@@ -42,10 +43,11 @@
 <div>
   <img height="40" alt="Korea University" src="https://github.com/wakhoo/wakhoo/blob/main/pic/globalsymbol_eng2_large.png?raw=true" /><br/>
   <strong>Korea University</strong><br/>
-  <em>B.Eng / B.Sc (2018–2023)</em><br/>
-  CS fundamentals, projects, teaching.
+  <em>Bachelor of Engineering – Computer Convergence Software (2018–2023)</em><br/>
+  <strong>Key Skills:</strong> C, C++, Python, Linux, CUDA Programming, Data Structure, Algorithm, Operating System, Computer Network, Artificial Intelligence, Computer Graphics<br/><br/>
+  <em>Bachelor of Science – Brain and Cognitive Sciences (2018–2023)</em><br/>
+  <strong>Key Skills:</strong> Cognitive Psychology, Systems Neuroscience, Neurobiology, Brain and Machine Learning, Theory of Computation
 </div>
-
 
 ---
 
