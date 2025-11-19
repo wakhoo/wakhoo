@@ -53,10 +53,11 @@
 ### 🗃️ Projects
 
 #### 42 C Projects
-- <a href="https://github.com/wakhoo/minishell"><text>minishell</text></a> | simple bash
-- <a href="https://github.com/wakhoo/cub3d"><text>cub3D</text></a> | 3D game
-- <a href="https://github.com/wakhoo/push_swap"><text>push swap</text></a> | sort
-- <a href="https://github.com/wakhoo/push_swap"><text>so long</text></a> | mini 2D game
+- <a href="https://github.com/wakhoo/42_minishell"><text>minishell</text></a> | simple bash
+- <a href="https://github.com/wakhoo/42_cub3d"><text>cub3D</text></a> | 3D game
+- <a href="https://github.com/wakhoo/42_push_swap"><text>push swap</text></a> | sort
+- <a href="https://github.com/wakhoo/42_minitalk"><text>minitalk</text></a> | communication
+- <a href="https://github.com/wakhoo/42_so_long"><text>so long</text></a> | mini 2D game
 
 #### AI Projects
 - <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a>
