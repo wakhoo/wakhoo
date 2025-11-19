@@ -68,9 +68,6 @@
 - <a href="https://apps.apple.com/kr/app/roady-and-co/id6740483631"><text>roady and co [ios] </text></a> | flutter, firebase, Google Cloud API
 - <a href="https://apps.apple.com/kr/app/odsd/id6673917971"><text>ODSD [ios] </text></a> | flutter 
 - <a href="https://happy-new-year-chaewon.netlify.app"><text>New Year Time Countdown</text></a> | html, css, js [Netlify] 
-- <a href="https://blooming-falls-63075.herokuapp.com/comments/"><text>Ask Me!</text></a>  | MongoDB, flask, html, css, jquery [Heroku] -> not on service
-- <a href="https://blooming-falls-63075.herokuapp.com/bucket/"><text>Bucket List</text></a>  | MongoDB, flask, html, css, jquery [Heroku] -> not on service
-- <a href="https://chaewon-dev.com"><text>Blog</text></a> | Next.js, tailwind css, hygraph [Vercel] 🛠 -> not on service
 - <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
   <a href="https://youtu.be/z2iq8cshaJ8"><text>KU Lib Project play Video</text></a>
 - <a href="https://github.com/wakhoo/Kint-Comunity.git"><text>Kint Comunity</text></a> | Next.js(React) <a href="https://www.youtube.com/watch?v=-GEij44PfbA"><text>Kint Comunity Project play Video</text></a>
