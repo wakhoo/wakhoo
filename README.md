@@ -62,8 +62,8 @@
 - <a href="https://github.com/wakhoo/42_so_long"><text>so long</text></a> | mini 2D game - 2D rendering, MiniLibX, map parsing, event handling
 
 #### AI Projects
-- <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a>
-- <a href="https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb"><text>Movie Recommend Project</text></a>
+- <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a> | Document Clustering - Natural Language Processing (NLP), Text Preprocessing, Tokenization / Lemmatization, NLTK, TF-IDF Vectorization, Topic Modeling, LDA (Latent Dirichlet Allocation), Data Visualization, Python / Jupyter Notebook
+- <a href="https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie_recommend.ipynb"><text>Movie Recommend Project</text></a> | Movie Recommendation System - Content-Based Filtering, Similarity Metrics (Cosine Similarity), TF-IDF Features, Feature Engineering, Metadata-Based Recommendation, Pandas / NumPy, Scikit-Learn, Python / Jupyter Notebook
 
 #### Web/App Projects
 - <a href="https://play.google.com/store/apps/details?id=co.and.roady"><text>roady and co [Android] </text></a> | flutter, firebase, Google Cloud API
