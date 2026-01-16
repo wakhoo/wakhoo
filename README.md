@@ -10,7 +10,7 @@
 
 
 
-<img src="https://img.shields.io/github/followers/wakhoo?style=social"/> </br>
+<!-- <img src="https://img.shields.io/github/followers/wakhoo?style=social"/> </br> -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/burpsuite" />
