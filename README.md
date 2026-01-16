@@ -53,11 +53,13 @@
 ### 🗃️ Projects
 
 #### 42 C Projects
-- <a href="https://github.com/wakhoo/42_minishell"><text>minishell</text></a> | simple bash
-- <a href="https://github.com/wakhoo/42_cub3d"><text>cub3D</text></a> | 3D game
-- <a href="https://github.com/wakhoo/42_push_swap"><text>push swap</text></a> | sort
-- <a href="https://github.com/wakhoo/42_minitalk"><text>minitalk</text></a> | communication
-- <a href="https://github.com/wakhoo/42_so_long"><text>so long</text></a> | mini 2D game
+- <a href="https://github.com/wakhoo/webserv/tree/benpicar/ben#readme"><text>Webserv</text></a> | Web engine - C++98, HTTP/1.1, epoll, non-blocking I/O, CGI, socket programming
+- <a href="https://github.com/wakhoo/42_minishell"><text>minishell</text></a> | simple bash - parsing, tokenizer, AST, pipe, redirection, signal handling, process control
+- <a href="https://github.com/wakhoo/42_philosophers"><text>Philosophers</text></a> | mutex, multithreading, synchronization, deadlock prevention
+- <a href="https://github.com/wakhoo/Born2beRoot/tree/main"><text>Born2beRoot</text></a> | VM - LVM, system administration, user & group management, password policy, sudo configuration, SSH hardening, UFW firewall, AppArmor, security hardening, cron, monitoring script, server configuration
+- <a href="https://github.com/wakhoo/42_cub3d"><text>cub3D</text></a> | 3D game - raycasting, 3D rendering, MLX42, textures, collision detection
+- <a href="https://github.com/wakhoo/42_push_swap"><text>push swap</text></a> | sorting algorithm, stack operations, time complexity optimization
+- <a href="https://github.com/wakhoo/42_so_long"><text>so long</text></a> | mini 2D game - 2D rendering, MiniLibX, map parsing, event handling
 
 #### AI Projects
 - <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a>
