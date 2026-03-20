@@ -1,109 +1,97 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=header&text=Bonjour!%20&fontSize=40&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=header&text=Chaewon%20JEON&fontSize=40&descAlignY=70)
 
- 
+### Embedded Systems Security Engineer
 
+*Securing hardware from the silicon up — CAN Bus, UART, STM32, and beyond.*
 
-### Chaewon JEON
+[![Email](https://img.shields.io/badge/hello@chaewon.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@chaewon.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaewon-jeon-dev/)
 
+</div>
 
+-----
 
+## About Me
 
-<!-- <img src="https://img.shields.io/github/followers/wakhoo?style=social"/> </br> -->
+Computer science engineer with a dual background in **software systems** (42 Mulhouse, Korea University) and **brain & cognitive sciences**, now focused on **embedded security** — hardware-layer vulnerabilities, automotive protocols (CAN Bus, UART), and secure firmware design.
+
+Currently building hands-on security projects targeting hardware-layer vulnerabilities in embedded systems — with a focus on automotive protocols (CAN Bus, UART) and secure firmware design (ISO 21434 / AUTOSAR SecOC).
+
+-----
+
+## 🔐 Embedded Systems Security
+
+> Core focus area — hardware attack surfaces, automotive protocols, and secure firmware.
+
+|Project                                                             |Description                                                                                                                             |Stack                                                 |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+|[canbus-ids-arduino](https://github.com/wakhoo/canbus-ids-arduino) 🔨|**CAN Bus Intrusion Detection System** — ECU simulation, frame injection, ID spoofing & replay attack detection with whitelist-based IDS|Arduino UNO · MCP2515 · CAN 2.0B · ISO 21434 · UN R155|
+|[anti-replay-can](https://github.com/wakhoo/anti-replay-can) 🔨      |**Anti-Replay Defense on CAN Bus** — nonce, sequence counter & timestamp validation; AUTOSAR SecOC concept                              |Arduino UNO · MCP2515 · CAN 2.0B                      |
+|[secure-boot-stm32](https://github.com/wakhoo/secure-boot-stm32) 🔨  |**Secure Boot & Firmware Integrity** — RDP, Option Bytes, flash write protection, firmware signing, HSM concept, MPU                    |STM32F407 · Cortex-M4 · ISO 21434                     |
+|[uart-aes-security](https://github.com/wakhoo)                      |**UART Eavesdropping & AES-128 Encryption** — plaintext interception demo, symmetric encryption countermeasure                          |Arduino UNO · UART/Serial · AES-128-CBC               |
+
+🔨 *Actively in development — expected completion within 1 month*
+
+-----
+
+## ⚙️ Systems Programming (42 Mulhouse)
+
+Low-level C/C++ projects emphasizing OS internals, concurrency, and network programming.
+
+|Project                                                              |Description                          |Key Concepts                                                          |
+|---------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------|
+|[Webserv](https://github.com/wakhoo/webserv/tree/benpicar/ben#readme)|HTTP/1.1 web server from scratch     |C++98 · epoll · non-blocking I/O · CGI · socket programming           |
+|[minishell](https://github.com/wakhoo/42_minishell)                  |POSIX-compliant shell                |Parsing · AST · pipe · redirection · signal handling · process control|
+|[Philosophers](https://github.com/wakhoo/42_philosophers)            |Dining philosophers simulation       |Mutex · multithreading · synchronization · deadlock prevention        |
+|[Born2beRoot](https://github.com/wakhoo/Born2beRoot/tree/main)       |Hardened Linux server setup          |LVM · SSH hardening · UFW · AppArmor · sudo policy · cron             |
+|[cub3D](https://github.com/wakhoo/42_cub3d)                          |Raycasting 3D engine                 |Raycasting · MLX42 · textures · collision detection                   |
+|[push_swap](https://github.com/wakhoo/42_push_swap)                  |Optimal sorting on constrained stacks|Algorithm design · stack operations · complexity optimization         |
+
+-----
+
+## 🎓 Education
+
+**42 Mulhouse** `2023 – present`
+Peer-to-peer engineering school · Core Program
+*C · C++98 · Algorithms · Data Structures · Networks · System Programming · Cybersecurity*
+
+**Korea University** `2018 – 2023`
+B.Eng. Computer Convergence Software
+*C · C++ · Python · Linux · CUDA · OS · Computer Networks · AI · Computer Graphics*
+
+B.Sc. Brain and Cognitive Sciences
+*Cognitive Psychology · Systems Neuroscience · Neurobiology · Theory of Computation*
+
+-----
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Security & Systems**
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/burpsuite" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark" />
 
+**Additional**
 
-</div>
-
----
-### 🎓 Educations
-
-<div>
-  <img height="40" alt="42" src="https://cdn.simpleicons.org/42" /><br/>
-  <strong>42 Mulhouse (2023–present)</strong><br/>
-  <em>Piscine & Core Program </em><br/>
-  Innovative computer science school based on peer-to-peer learning and project work.<br/>
-  <strong>Key Skills:</strong> C, C++98, Algorithms, Data Structures, Networks, System Programming, Web Development, Cybersecurity
-</div>
-
-<br/>
-
-<div>
-  <img height="40" alt="Korea University" src="https://github.com/wakhoo/wakhoo/blob/main/pic/globalsymbol_eng2_large.png?raw=true" /><br/>
-  <strong>Korea University (2018–2023)</strong><br/>
-  <em>Bachelor of Engineering – Computer Convergence Software </em><br/>
-  <strong>Key Skills:</strong> C, C++, Python, Linux, CUDA Programming, Data Structure, Algorithm, Operating System, Computer Network, Artificial Intelligence, Computer Graphics<br/><br/>
-  <em>Bachelor of Science – Brain and Cognitive Sciences </em><br/>
-  <strong>Key Skills:</strong> Cognitive Psychology, Systems Neuroscience, Neurobiology, Brain and Machine Learning, Theory of Computation
-</div>
-
----
-### 🗃️ Projects
-
-#### Embedded Systems Security
-- <a href="https://github.com/wakhoo"><text>uart-aes-security</text></a> | UART eavesdropping & AES-128 encryption — Arduino UNO, UART/Serial, AES-128-CBC, plaintext interception, symmetric encryption, embedded security, hardware-layer vulnerability
-- [canbus-ids-arduino](https://github.com/wakhoo/canbus-ids-arduino) | CAN Bus Intrusion Detection System — Arduino UNO, MCP2515, CAN 2.0B, ECU simulation, frame injection, ID spoofing, replay attack, anomaly detection, whitelist IDS, ISO 21434, UN R155 🚧 WIP
-
-- [anti-replay-can](https://github.com/wakhoo/anti-replay-can) | Anti-Replay Attack defense on CAN Bus — Arduino UNO, MCP2515, CAN 2.0B, nonce, sequence counter, timestamp validation, AUTOSAR SecOC concept 🚧 WIP
-
-- [secure-boot-stm32](https://github.com/wakhoo/secure-boot-stm32) | Secure Boot & firmware integrity verification — STM32F407, Cortex-M4, RDP, Option Bytes, flash write protection, firmware signing, code signing, HSM concept, MPU, ISO 21434 🚧 WIP
-#### 42 C Projects
-- <a href="https://github.com/wakhoo/webserv/tree/benpicar/ben#readme"><text>Webserv</text></a> | Web engine - C++98, HTTP/1.1, epoll, non-blocking I/O, CGI, socket programming
-- <a href="https://github.com/wakhoo/42_minishell"><text>minishell</text></a> | simple bash - parsing, tokenizer, AST, pipe, redirection, signal handling, process control
-- <a href="https://github.com/wakhoo/42_philosophers"><text>Philosophers</text></a> | mutex, multithreading, synchronization, deadlock prevention
-- <a href="https://github.com/wakhoo/Born2beRoot/tree/main"><text>Born2beRoot</text></a> | VM - LVM, system administration, user & group management, password policy, sudo configuration, SSH hardening, UFW firewall, AppArmor, security hardening, cron, monitoring script, server configuration
-- <a href="https://github.com/wakhoo/42_cub3d"><text>cub3D</text></a> | 3D game - raycasting, 3D rendering, MLX42, textures, collision detection
-- <a href="https://github.com/wakhoo/42_push_swap"><text>push swap</text></a> | sorting algorithm, stack operations, time complexity optimization
-- <a href="https://github.com/wakhoo/42_so_long"><text>so long</text></a> | mini 2D game - 2D rendering, MiniLibX, map parsing, event handling
-
-#### AI Projects
-- <a href="https://github.com/wakhoo/HaniumProject-NLP-"><text>LDA study</text></a> | Document Clustering - Natural Language Processing (NLP), Text Preprocessing, Tokenization / Lemmatization, NLTK, TF-IDF Vectorization, Topic Modeling, LDA (Latent Dirichlet Allocation), Data Visualization, Python / Jupyter Notebook
-- <a href="https://github.com/wakhoo/wakhoo/blob/main/movie_recommand_project/movie.md"><text>Movie Recommend Project</text></a> | Movie Recommendation System - Content-Based Filtering, Similarity Metrics (Cosine Similarity), TF-IDF Features, Feature Engineering, Metadata-Based Recommendation, Pandas / NumPy, Scikit-Learn, Python / Jupyter Notebook
-
-#### Web/App Projects
-- <a href="https://play.google.com/store/apps/details?id=co.and.roady"><text>roady and co [Android] </text></a> | flutter, firebase, Google Cloud API
-- <a href="https://apps.apple.com/kr/app/roady-and-co/id6740483631"><text>roady and co [ios] </text></a> | flutter, firebase, Google Cloud API
-- <a href="https://apps.apple.com/kr/app/odsd/id6673917971"><text>ODSD [ios] </text></a> | flutter 
-- <a href="https://happy-new-year-chaewon.netlify.app"><text>New Year Time Countdown</text></a> | html, css, js [Netlify] 
-- <a href="https://github.com/KULib-Project"><text>KU Lib</text></a> | Expo -> React Native
-  <a href="https://youtu.be/z2iq8cshaJ8"><text>KU Lib Project play Video</text></a>
-- <a href="https://github.com/wakhoo/Kint-Comunity.git"><text>Kint Comunity</text></a> | Next.js(React) <a href="https://www.youtube.com/watch?v=-GEij44PfbA"><text>Kint Comunity Project play Video</text></a>
-
-
-    
----
-    
-    
-  
-#### you can contact by
-
-<a href="mailto:hello@chaewon.dev"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href = "https://www.linkedin.com/in/chaewon-jeon-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<div align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/dart" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/expo" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
+
 </div>
+
+-----
+
 <div align="center">
- 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=footer)
-    
+
 </div>
-
-
-
-
