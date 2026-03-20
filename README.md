@@ -30,7 +30,7 @@ Currently building hands-on security projects targeting hardware-layer vulnerabi
 |[canbus-ids-arduino](https://github.com/wakhoo/canbus-ids-arduino) 🔨|**CAN Bus Intrusion Detection System** — ECU simulation, frame injection, ID spoofing & replay attack detection with whitelist-based IDS|Arduino UNO · MCP2515 · CAN 2.0B · ISO 21434 · UN R155|
 |[anti-replay-can](https://github.com/wakhoo/anti-replay-can) 🔨      |**Anti-Replay Defense on CAN Bus** — nonce, sequence counter & timestamp validation; AUTOSAR SecOC concept                              |Arduino UNO · MCP2515 · CAN 2.0B                      |
 |[secure-boot-stm32](https://github.com/wakhoo/secure-boot-stm32) 🔨  |**Secure Boot & Firmware Integrity** — RDP, Option Bytes, flash write protection, firmware signing, HSM concept, MPU                    |STM32F407 · Cortex-M4 · ISO 21434                     |
-|[uart-aes-security](https://github.com/wakhoo)                      |**UART Eavesdropping & AES-128 Encryption** — plaintext interception demo, symmetric encryption countermeasure                          |Arduino UNO · UART/Serial · AES-128-CBC               |
+|[uart-aes-security](https://github.com/wakhoo/uart-aes-security)                      |**UART Eavesdropping & AES-128 Encryption** — plaintext interception demo, symmetric encryption countermeasure                          |Arduino UNO · UART/Serial · AES-128-CBC               |
 
 🔨 *Actively in development — expected completion within 1 month*
 
