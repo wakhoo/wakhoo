@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=862633&height=200&section=header&text=Bonjour!%20&fontSize=40&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=header&text=Bonjour!%20&fontSize=40&descAlignY=70)
 
  
 
@@ -13,18 +13,13 @@
 <!-- <img src="https://img.shields.io/github/followers/wakhoo?style=social"/> </br> -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/burpsuite" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/dart" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/expo" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/burpsuite" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/wireshark" />
+
+
 </div>
 
 ---
@@ -52,6 +47,13 @@
 ---
 ### 🗃️ Projects
 
+#### Embedded Systems Security
+- <a href="https://github.com/wakhoo"><text>uart-aes-security</text></a> | UART eavesdropping & AES-128 encryption — Arduino UNO, UART/Serial, AES-128-CBC, plaintext interception, symmetric encryption, embedded security, hardware-layer vulnerability
+- [canbus-ids-arduino](https://github.com/wakhoo/canbus-ids-arduino) | CAN Bus Intrusion Detection System — Arduino UNO, MCP2515, CAN 2.0B, ECU simulation, frame injection, ID spoofing, replay attack, anomaly detection, whitelist IDS, ISO 21434, UN R155 🚧 WIP
+
+- [anti-replay-can](https://github.com/wakhoo/anti-replay-can) | Anti-Replay Attack defense on CAN Bus — Arduino UNO, MCP2515, CAN 2.0B, nonce, sequence counter, timestamp validation, AUTOSAR SecOC concept 🚧 WIP
+
+- [secure-boot-stm32](https://github.com/wakhoo/secure-boot-stm32) | Secure Boot & firmware integrity verification — STM32F407, Cortex-M4, RDP, Option Bytes, flash write protection, firmware signing, code signing, HSM concept, MPU, ISO 21434 🚧 WIP
 #### 42 C Projects
 - <a href="https://github.com/wakhoo/webserv/tree/benpicar/ben#readme"><text>Webserv</text></a> | Web engine - C++98, HTTP/1.1, epoll, non-blocking I/O, CGI, socket programming
 - <a href="https://github.com/wakhoo/42_minishell"><text>minishell</text></a> | simple bash - parsing, tokenizer, AST, pipe, redirection, signal handling, process control
@@ -84,11 +86,21 @@
 
 <a href="mailto:hello@chaewon.dev"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href = "https://www.linkedin.com/in/chaewon-jeon-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
-
+<div align="center">
+<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/dart" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/expo" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
+</div>
 <div align="center">
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=862633&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=footer)
     
 </div>
 
